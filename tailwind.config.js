@@ -7,8 +7,8 @@ module.exports = {
   theme: {
     extend: {
       height: {
-        "navbar-top-height": "38px",
-        "tools-sreen": "calc(100vh - 38px)",
+        navbar: "var(--header-height)",
+        "tools-sreen": "calc(100vh - var(--header-height))",
       },
     },
   },
