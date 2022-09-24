@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       height: {
         "navbar-top-height": "38px",
+        "tools-sreen": "calc(100vh - 38px)",
       },
     },
   },
