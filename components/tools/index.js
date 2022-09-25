@@ -4,6 +4,7 @@ import Chart from "./Chart";
 import Trades from "./Trades";
 
 import tradesData from "../../mocks/trades.json";
+import ordersData from "../../mocks/orders.json";
 
 export default function Index() {
   return (
@@ -18,7 +19,7 @@ export default function Index() {
         <DepthChart />
       </div>
       <div className="col-start-3 col-end-5 row-start-2 row-end-3">
-        <OrderBook />
+        <OrderBook list={ordersData} />
       </div>
     </div>
   );
