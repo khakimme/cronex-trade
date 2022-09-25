@@ -1,29 +1,31 @@
 export default function Trades({ list }) {
   return (
     <section className="h-full">
-      <header className="h-9">
+      <div className="h-9">
         <h2>Trades</h2>
-      </header>
-      <table className="w-full h-table">
-        <thead className="table table-auto w-full">
-          <tr>
-            <th>Amount</th>
-            <th>Time</th>
-            <th>Price</th>
-          </tr>
-        </thead>
-        <tbody class="block overflow-y-auto h-tbody">
-          {list.map((trade, index) => {
-            return (
-              <tr className="w-full table table-auto" key={index}>
-                <td>{trade.amount}</td>
-                <td>{trade.time}</td>
-                <td>{trade.price}</td>
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
+      </div>
+
+      <div className="h-table">
+        <div className="flex flex-col h-full">
+          <header className="flex justify-between">
+            <span>Amount</span>
+            <span>Time</span>
+            <span>Price</span>
+          </header>
+
+          <main class="flex-[1_1_auto] overflow-y-auto h-0">
+            {list.map((trade, index) => {
+              return (
+                <div className="flex flex-row justify-between" key={index}>
+                  <span>{trade.amount}</span>
+                  <span>{trade.time}</span>
+                  <span>{trade.price}</span>
+                </div>
+              );
+            })}
+          </main>
+        </div>
+      </div>
     </section>
   );
 }

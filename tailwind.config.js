@@ -10,7 +10,6 @@ module.exports = {
         navbar: "38px",
         home: "calc(100vh - 38px)",
         table: "calc(100% - 35px)",
-        tbody: "calc(100% - 25px)",
       },
     },
   },
