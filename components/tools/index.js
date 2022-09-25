@@ -8,7 +8,7 @@ import ordersData from "../../mocks/orders.json";
 
 export default function Index() {
   return (
-    <div className="grid grid-cols-[250px_auto_auto_250px] grid-rows-[auto_300px] w-screen h-home">
+    <div className="grid grid-cols-[250px_repeat(2,_1fr)_250px] grid-rows-[1fr_300px] w-screen h-homePage">
       <div className="col-start-1 col-end-2 row-start-1 row-end-2">
         <Trades list={tradesData} />
       </div>

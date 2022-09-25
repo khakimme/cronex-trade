@@ -1,217 +1,625 @@
 [
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": "true",
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 15
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 40
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 100
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 60
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 60
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 10
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
     },
     {
-        "amount": "0.00126",
+        "amount": "0.39403173",
         "time": "22:27:19",
-        "price": "18,632"
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 60
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 30
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 70
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 20
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": false,
+        "indicatorSize": 40
+    },
+    {
+        "amount": "0.39403173",
+        "time": "22:27:19",
+        "price": "18,632",
+        "isBid": true,
+        "indicatorSize": 10
     }
 ]

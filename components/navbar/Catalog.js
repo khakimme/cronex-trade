@@ -1,3 +1,3 @@
 export default function Catalog() {
-  return <button>Catalog</button>;
+  return <button className="text-ct-blue font-bold text-sm">BTC/USD</button>;
 }
