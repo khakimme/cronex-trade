@@ -7,32 +7,52 @@ export default function OrderBook({ list }) {
 
       <div className="h-table">
         <div className="flex flex-col h-full">
-          <header className="flex justify-between text-tiny">
-            <span>Sum</span>
-            <span>Value</span>
-            <span>Amount</span>
-            <span>Bid</span>
-            <span>Ask</span>
-            <span>Amount</span>
-            <span>Value</span>
-            <span>Sum</span>
+          <header className="flex justify-between text-tiny py-1 text-grayish-blue-36 text-right bg-grayish-blue-87 border-b border-grayish-blue-78">
+            <span className="flex-[1_1_70%] text-left pl-4">Sum</span>
+            <span className="flex-[1_1_100%] text-right">Value</span>
+            <span className="flex-[1_1_100%] text-right">Amount</span>
+            <span className="flex-[1_1_100%] text-right pr-2">Bid</span>
+
+            <span className="flex-[1_1_70%] text-left pl-2">Ask</span>
+            <span className="flex-[1_1_100%] text-right">Amount</span>
+            <span className="flex-[1_1_100%] text-right">Value</span>
+            <span className="flex-[1_1_70%] text-right pr-4">Sum</span>
           </header>
 
-          <main className="flex-[1_1_auto] overflow-y-auto h-0">
+          <main className="flex-[1_1_auto] overflow-y-auto h-0 text-xs bg-grayish-blue-89 pr-4">
             {list.map((trade, index) => {
               return (
                 <div
-                  className="flex flex-row justify-between text-xs"
+                  className="flex flex-row justify-between relative 
+                    text-xs mt-px gap-1 
+                    hover:bg-tv-row-shade"
                   key={index}
                 >
-                  <span>{trade.sumBid}</span>
-                  <span>{trade.valueBid}</span>
-                  <span>{trade.amountBid}</span>
-                  <span>{trade.bid}</span>
-                  <span>{trade.ask}</span>
-                  <span>{trade.amountAsk}</span>
-                  <span>{trade.valueAsk}</span>
-                  <span>{trade.sumAsk}</span>
+                  <span className="flex-[1_1_70%] text-left pl-4 text-grayish-blue-36">
+                    {trade.sumBid}
+                  </span>
+                  <span className="flex-[1_1_100%] text-right text-grayish-blue-15">
+                    {trade.valueBid}
+                  </span>
+                  <span className="flex-[1_1_100%] text-right text-grayish-blue-15">
+                    {trade.amountBid}
+                  </span>
+                  <span className="flex-[1_1_100%] text-right text-buy">
+                    {trade.bid}
+                  </span>
+
+                  <span className="flex-[1_1_70%] text-left text-sell">
+                    {trade.ask}
+                  </span>
+                  <span className=" flex-[1_1_100%] text-right text-grayish-blue-15">
+                    {trade.amountAsk}
+                  </span>
+                  <span className="flex-[1_1_100%] text-right text-grayish-blue-15">
+                    {trade.valueAsk}
+                  </span>
+                  <span className="flex-[1_1_70%] text-right text-grayish-blue-36">
+                    {trade.sumAsk}
+                  </span>
                 </div>
               );
             })}

@@ -1,5 +1,4 @@
 import mock from "../../mocks/markets.json";
-import { currency } from "../../utils/format";
 
 export default function Markets() {
   return (
