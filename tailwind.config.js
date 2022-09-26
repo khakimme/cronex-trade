@@ -17,18 +17,6 @@ module.exports = {
       },
       colors: {
         "ct-blue": "#4e95f5",
-        "ct-grayish": "#313337",
-        "ct-grayish-dark": "#18191b",
-        "ct-grayish-light": "#c7ccd9",
-        "ct-header": "#202124",
-        "ct-grayish-30": "#2d2f33",
-        "ct-grayish-20": "#313337",
-        "ct-grayish-10": "#9599a3",
-        "ct-green": "#00a159",
-        "ct-sell-color": "#df4249",
-        "ct-label-white": "#c7ccd9",
-        "ct-red": "#cd0124",
-
         "dark-grayish-blue-71": "#42474a",
         "dark-grayish-blue-75": "#3a3c40",
         "dark-grayish-blue-56": "#686d70",

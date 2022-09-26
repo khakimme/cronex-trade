@@ -1,8 +1,8 @@
 export default function OrderBook({ list }) {
   return (
     <section className="h-full w-full border border-grayish-blue-80">
-      <header className="flex flex-row items-center h-6 px-4 border-b border-grayish-blue-80 bg-ct-header">
-        <h2 className="text-tiny uppercase text-ct-label-white">Order Book</h2>
+      <header className="flex flex-row items-center h-6 px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
+        <h2 className="text-tiny uppercase text-grayish-blue-15">Order Book</h2>
       </header>
 
       <div className="h-table">

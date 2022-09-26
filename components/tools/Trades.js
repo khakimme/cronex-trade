@@ -3,8 +3,8 @@ export default function Trades({ list }) {
 
   return (
     <section className="h-full border border-grayish-blue-80 ">
-      <div className="flex flex-row h-6 items-center justify-between px-4 border-b border-grayish-blue-80 bg-ct-header">
-        <h2 className="text-tiny uppercase text-ct-label-white">Trades</h2>
+      <div className="flex flex-row h-6 items-center justify-between px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
+        <h2 className="text-tiny uppercase text-grayish-blue-15">Trades</h2>
         <span>@</span>
       </div>
 
