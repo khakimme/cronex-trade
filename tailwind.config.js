@@ -53,6 +53,13 @@ module.exports = {
         sell: "#df4249",
       },
     },
+    screens: {
+      lg: { max: "992px" },
+
+      md: { max: "768px" },
+
+      sm: { max: "576px" },
+    },
   },
   plugins: [],
 };
