@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply text-white border h-6 border-smart-blue-80 bg-smart-blue-80 hover:opacity-80 rounded text-xs px-4 py-0.5  min-w-[5rem] text-center;
+  }
+
+  .btn-primary {
+    @apply text-white border-smart-blue-80 bg-smart-blue-80;
+  }
+
+  .btn-outline {
+    @apply text-ct-blue hover:border-ct-blue bg-transparent;
+  }
+
+  .btn-large {
+    @apply h-9 px-7;
+  }
+}

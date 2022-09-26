@@ -16,11 +16,12 @@ module.exports = {
         tableSlim: "calc(100% - 36px)",
       },
       colors: {
+        buy: "#00a159",
+        sell: "#df4249",
         "ct-blue": "#4e95f5",
         "dark-grayish-blue-71": "#42474a",
         "dark-grayish-blue-75": "#3a3c40",
         "dark-grayish-blue-56": "#686d70",
-
         "grayish-blue-89": "#18191b",
         "grayish-blue-87": "#1c1d20",
         "grayish-blue-86": "#202124",
@@ -37,9 +38,6 @@ module.exports = {
         "grayish-blue-15": "#c7ccd9",
         "smart-blue-80": "#4e95f5",
         "tv-row-shade": "rgba(43,45,49,.5)",
-
-        buy: "#00a159",
-        sell: "#df4249",
       },
     },
     screens: {
