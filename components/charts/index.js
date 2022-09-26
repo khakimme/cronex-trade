@@ -1,8 +1,8 @@
 import DepthChart from "./DepthChart";
 import OrderBook from "./OrderBook";
-import Chart from "./Chart";
+import Charting from "./Charting";
 import Trades from "./Trades";
-import StartTrading from "./StartTrading";
+import StartTrading from "../StartTrading";
 
 import tradesData from "../../mocks/trades.json";
 import ordersData from "../../mocks/orders.json";
@@ -19,7 +19,7 @@ export default function Index() {
     
                     lg:grid-cols-[auto_250px_250px]
                     md:grid-cols-[1fr_250px]
-                    md:grid-rows-[minmax(300px,_50%)_350px_minmax(250px,_33%)]
+                    md:grid-rows-[minmax(300px,_50%)_375px_minmax(250px,_33%)]
                     
                     sm:grid-cols-[1f]
                     sm:grid-rows-[1fr_250px]
@@ -50,7 +50,7 @@ export default function Index() {
                     md:row-end-2
                     "
       >
-        <Chart />
+        <Charting />
       </div>
       <div
         className="col-start-1 
@@ -83,7 +83,8 @@ export default function Index() {
         <OrderBook list={ordersData} />
       </div>
       <div
-        className="md:block
+        className="md:block 
+                      hidden
                       col-start-2
                       col-end-3
                       row-start-2

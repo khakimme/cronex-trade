@@ -2,13 +2,12 @@ export default function Trades({ list }) {
   const priceColor = (value) => (value ? "text-buy" : "text-sell");
 
   return (
-    <section className="h-full border border-grayish-blue-80 ">
-      <div className="flex flex-row h-6 items-center justify-between px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
+    <section className="h-full w-full border border-grayish-blue-80">
+      <div className="flex flex-row h-6 md:h-9 items-center justify-between px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
         <h2 className="text-tiny uppercase text-grayish-blue-15">Trades</h2>
-        <span>@</span>
       </div>
 
-      <div className="h-table">
+      <div className="h-table md:h-tableSlim">
         <div className="flex flex-col h-full">
           <header className="flex justify-between text-tiny px-2 py-1 text-grayish-blue-36 text-right bg-grayish-blue-87 border-b border-grayish-blue-78">
             <span className="flex-[1_1_120%;]">Amount</span>

@@ -10,10 +10,10 @@ module.exports = {
         tiny: "0.625rem",
       },
       height: {
-        navbar: "38px",
-        homePage: "calc(100vh - 38px)",
+        navbar: "2.5rem",
+        homePage: "calc(100vh - 2.5rem)",
         table: "calc(100% - 24px)",
-        depthChart: "calc(100% - 1.5rem)",
+        tableSlim: "calc(100% - 36px)",
       },
       colors: {
         "ct-blue": "#4e95f5",
@@ -35,6 +35,7 @@ module.exports = {
         "grayish-blue-43": "#858991",
         "grayish-blue-36": "#9599a3",
         "grayish-blue-15": "#c7ccd9",
+        "smart-blue-80": "#4e95f5",
         "tv-row-shade": "rgba(43,45,49,.5)",
 
         buy: "#00a159",

@@ -1,11 +1,11 @@
 export default function OrderBook({ list }) {
   return (
     <section className="h-full w-full border border-grayish-blue-80">
-      <header className="flex flex-row items-center h-6 px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
+      <header className="flex flex-row h-6 md:h-9 items-center justify-between px-4 border-b border-grayish-blue-80 bg-grayish-blue-86">
         <h2 className="text-tiny uppercase text-grayish-blue-15">Order Book</h2>
       </header>
 
-      <div className="h-table">
+      <div className="h-table md:h-tableSlim">
         <div className="flex flex-col h-full">
           <header className="flex justify-between text-tiny py-1 pr-4 text-grayish-blue-36 text-right bg-grayish-blue-87 border-b border-grayish-blue-78">
             <span className="flex-[1_1_70%] text-left pl-4 md:hidden">Sum</span>

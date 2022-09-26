@@ -22,7 +22,9 @@ export default function Navbar() {
           <Markets />
         </div>
       </div>
-      <UserNavigation />
+      <div className="md:hidden">
+        <UserNavigation />
+      </div>
     </header>
   );
 }

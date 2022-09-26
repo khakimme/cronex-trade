@@ -1,7 +1,7 @@
 import Image from "next/image";
-import url from "../../public/chart.png";
+import url from "../../public/charting.png";
 
-export default function Char() {
+export default function Charting() {
   return (
     <div className="w-full h-full relative border border-grayish-blue-80">
       <Image

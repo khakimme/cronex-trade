@@ -1,5 +1,5 @@
-import Tools from "../components/tools";
+import Charts from "../components/charts";
 
 export default function Home() {
-  return <Tools />;
+  return <Charts />;
 }
