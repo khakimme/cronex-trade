@@ -22,7 +22,7 @@ export default function Index() {
                     md:grid-rows-[minmax(300px,_50%)_375px_minmax(250px,_33%)]
                     
                     sm:grid-cols-[1f]
-                    sm:grid-rows-[1fr_250px]
+                    sm:grid-rows-[1fr_265px]
                     "
     >
       <div
